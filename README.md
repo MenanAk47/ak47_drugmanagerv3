@@ -80,5 +80,5 @@ Designed to improve roleplay immersion and economy balancing:
 ## 🔗 Links & Support:
 
 * **📖 Documentation:** [https://docs.menanak47.com/multi-framework/ak47_drugmanagerv3](https://docs.menanak47.com/multi-framework/ak47_drugmanagerv3)
-* **🛒 Buy Now (Tebex):** [https://menanak47.tebex.io/package/6742640](https://menanak47.tebex.io/package/6742640)
+* **🛒 Buy Now (Tebex):** [https://menanak47.tebex.io/package/7644695](https://menanak47.tebex.io/package/7644695)
 * **💬 Discord Support:** [https://discord.gg/menanak47](https://discord.gg/menanak47)
